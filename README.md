@@ -1,3 +1,2 @@
-# Data-analyst-practise
-Tony Lan's self learning 
-11
+# Data-analyst-practise(Continuing)
+Hi, I’m Tony Lan, an IT student at Monash University with a strong interest in data and technology. At the moment, I am focusing on improving my skills in Python(pands,numpy,matplotlib) and MySQL, building a solid foundation in programming and data analysis. My long-term goal is to become an AI engineer, where I can combine technical expertise with creativity to design intelligent systems that bring real value to people and businesses. This repository is part of my self-learning journey, showcasing projects and exercises as I continue to grow my skills step by step.

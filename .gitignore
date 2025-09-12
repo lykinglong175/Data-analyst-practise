@@ -4,7 +4,9 @@
 
 !.gitignore
 !README.md
-!/Max_profit_Excel_solver/
+
+
+!/Maxflow&MinRoute/
 
 
 .DS_Store

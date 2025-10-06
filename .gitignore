@@ -1,14 +1,3 @@
-
-/*
-
-
-!.gitignore
-!README.md
-
-
-!/BabyNames/
-
-
 .DS_Store
 .ipynb_checkpoints/
-Maxflow&MinRoute/
+!SQL_Practise

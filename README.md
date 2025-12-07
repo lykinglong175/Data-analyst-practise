@@ -1,5 +1,5 @@
 # Personal AI & Data analysis Lab (Continuing)
-# Data Analytics & Machine Learning Portfolio
+
 
 Welcome to my personal practice hub.  
 This repository collects my learning notes, experiments, and mini-projects across data analytics, machine learning, SQL, Excel, and the Python data stack.
@@ -10,7 +10,7 @@ The work is organised by branch so you can quickly jump to the area that interes
 | Branch                           | Focus area     
 
 | main                             | Overview                                               
-| [Machine-Learning](https://github.com/lykinglong175/Data-analyst-practise/tree/Machine-Learning)                 | Machine learning projects              
+| [Machine/Deep-Learning](https://github.com/lykinglong175/Data-analyst-practise/tree/Machine-Learning)                 | Machine learning projects              
 | [SQL](https://github.com/lykinglong175/Data-analyst-practise/tree/SQL)                              | SQL practice and case studies         
 | [excel](https://github.com/lykinglong175/Data-analyst-practise/tree/excel)                           | Excel for analytics                              
 | [python-pandas-numpy-matplotlib](https://github.com/lykinglong175/Data-analyst-practise/tree/python-pandas-numpy-matplotlib)   | Python data analysis and visualisation 

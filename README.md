@@ -1,6 +1,16 @@
-# IT-practise_project(Continuing)
-Hi, I’m Tony Lan, an IT student graaduated at Monash University passionate about data and technology. 
+# Personal AI & Data analysis Lab (Continuing)
+# Data Analytics & Machine Learning Portfolio
 
-This repository serves as a record of my continuous self-learning journey, showcasing projects, coding exercises, and analytical tasks. My goal is to strengthen both my technical expertise and my ability to apply data insights to real-world challenges, step by step, as I grow into a data professional.
+Welcome to my personal practice hub.  
+This repository collects my learning notes, experiments, and mini-projects across data analytics, machine learning, SQL, Excel, and the Python data stack.
 
-There are branches in this repo for different skills I've been working on, pls have a look if interested ;)
+The work is organised by branch so you can quickly jump to the area that interests you most.
+
+## Repository structure
+| Branch                           | Focus area     
+
+| main                             | Overview                                               
+| [Machine-Learning](https://github.com/lykinglong175/Data-analyst-practise/tree/Machine-Learning)                 | Machine learning projects              
+| [SQL](https://github.com/lykinglong175/Data-analyst-practise/tree/SQL)                              | SQL practice and case studies         
+| [excel](https://github.com/lykinglong175/Data-analyst-practise/tree/excel)                           | Excel for analytics                              
+| [python-pandas-numpy-matplotlib](https://github.com/lykinglong175/Data-analyst-practise/tree/python-pandas-numpy-matplotlib)   | Python data analysis and visualisation 

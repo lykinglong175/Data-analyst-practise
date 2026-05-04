@@ -15,4 +15,4 @@ The work is organised by branch so you can quickly jump to the area that interes
 | [excel](https://github.com/lykinglong175/Data-analyst-practise/tree/excel)                           | Excel for analytics                              
 | [python-pandas-numpy-matplotlib](https://github.com/lykinglong175/Data-analyst-practise/tree/python-pandas-numpy-matplotlib)   | Python data analysis and visualisation 
 
-| [dbt-airflow](https://github.com/lykinglong175/Data-analyst-practise/edit/dbt-airflow)   | Data pipeline with dbt,airflow and Bigquery
+| [dbt-airflow](https://github.com/lykinglong175/Data-analyst-practise/tree/dbt-airflow)   | Data pipeline with dbt,airflow and Bigquery
